@@ -1,4 +1,4 @@
-second_new_hash = Hash.new
+new_hash = Hash.new
 require_relative '../intro_to_ruby_hashes_lab.rb'
 
 describe "working with hashes" do
